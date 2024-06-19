@@ -12,7 +12,7 @@ AI Summarize is a web application that utilizes the power of OpenAI's GPT-4 to s
 
 ## Demo
 
-![Demo](screenshot.png)
+https://main--standard-kraken-summarize.netlify.app/
 
 ## Installation
 

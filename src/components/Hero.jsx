@@ -16,7 +16,9 @@ function Hero() {
         <button
           className="black_btn flex flex-row gap-1 items-center"
           type="button"
-          onClick={() => window.open("http://www.github.com")}
+          onClick={() =>
+            window.open("https://github.com/krakenslide/Kraken-Summerize")
+          }
         >
           <GitHubIcon />
           GitHub

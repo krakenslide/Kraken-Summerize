@@ -32,7 +32,7 @@ AI Summarize is a web application that utilizes the power of OpenAI's GPT-4 to s
       ```bash
       npm run dev
 
-##Usage 
+## Usage 
 1. Open your browser and go to http://localhost:3000.
 2. Enter the URL of the article you want to summarize.
 3. Click the search button to fetch the summary.
@@ -50,7 +50,7 @@ AI Summarize is a web application that utilizes the power of OpenAI's GPT-4 to s
   - `App.jsx`: Main application component.
   - `index.jsx`: Entry point of the application.
 
-##Dependencies 
+## Dependencies 
  *  React
  *  Redux Toolkit
  *  React-Redux
@@ -61,10 +61,10 @@ AI Summarize is a web application that utilizes the power of OpenAI's GPT-4 to s
  *  Vite
  *  Material-UI
  
-##License
+## License
 This project is licensed under the MIT License.
 
-##Acknowledgments
+## Acknowledgments
 OpenAI for providing the GPT-4 model.
 RapidAPI for the article summarizer API.
 The developers and contributors of the various open-source libraries used in this project.

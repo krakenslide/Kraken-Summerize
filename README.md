@@ -1,8 +1,33 @@
-# React + Vite
+# AI Summarize
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI Summarize is a web application that utilizes the power of OpenAI's GPT-4 to summarize articles, websites, documents, reports, and presentations. The application allows users to input a URL and get a concise summary of the content.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Summarize content from any URL.
+- View and manage a history of summarized articles.
+- Copy URLs to clipboard.
+- Animated loading indicators and error handling.
+- Responsive design with a modern UI.
+
+## Demo
+
+![Demo](screenshot.png)
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/krakenslide/Kraken-Summerize.git
+   cd Kraken-Summerize
+2. Install dependencies: 
+  
+  ```bash
+  npm install
+
+3. Install dependencies: 
+
+
+
+
